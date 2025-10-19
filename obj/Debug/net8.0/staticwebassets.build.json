@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "HNTXcDkIFu6D4VlS+tMf3I7nuY5qCtBSCXu1qDTEYuY=",
+  "Source": "CliniqueBackend",
+  "BasePath": "_content/CliniqueBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
