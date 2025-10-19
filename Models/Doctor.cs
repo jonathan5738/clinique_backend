@@ -8,6 +8,7 @@ public class Doctor
 {
     public int Id { get; set; }
 
+    //current developer jonathan
     [Column(TypeName = "varchar(50)")]
     [Required]
     public string FirstName { get; set; } = default!;
